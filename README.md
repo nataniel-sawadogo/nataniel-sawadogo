@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and software development and AI
 - 🌱 I’m currently learning Javascript(Vue, Three, Node), C, Python, design, and many other stuff to come, I'm still a student 😊
 - 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me pingwendesawadogo@gmail.com
+- 📫 How to reach me: hello@nataniel.xyz
 
 <!---
 nataniel-sawadogo/nataniel-sawadogo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

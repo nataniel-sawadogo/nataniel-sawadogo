@@ -1,6 +1,6 @@
 - 👋🎉 Hi, I’m Pingwende Abdullah Nataniel Sawadogo ✨
 - 👀 I’m interested in web, mobile and software development and AI
-- 🌱 I’m currently learning Javascript(Vue, Three, Node, React), C, Python, design, Machine learning and many other stuff to come, I'm still a student 😊
+- 🌱 I’m currently learning Machine Learning and Mobile development and other stuff to come, I'm still a student 😊
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me: hello@nataniel.xyz
 - 💼 Check out my [Portfolio](https://nataniel.xyz)
